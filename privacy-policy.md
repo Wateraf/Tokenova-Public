@@ -34,4 +34,4 @@ We may update this policy from time to time. Continued use of the App after chan
 
 ## Contact
 
-Questions about this policy: open an issue at [Tokenova-Public](https://github.com/Wateraf/Tokenova-Public/issues) or leave feedback via the App Store review for Tokenova.
+Questions about this policy: [mizulab2026@gmail.com](mailto:mizulab2026@gmail.com)

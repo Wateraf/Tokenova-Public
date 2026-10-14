@@ -46,4 +46,4 @@ We may update these terms. Continued use after changes constitutes acceptance.
 
 ## Contact
 
-Questions: see [Support](support.md) or leave feedback via the App Store review for Tokenova.
+Questions: [mizulab2026@gmail.com](mailto:mizulab2026@gmail.com)
