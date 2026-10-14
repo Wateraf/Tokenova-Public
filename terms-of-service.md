@@ -15,7 +15,7 @@ We grant you a limited, non-exclusive, non-transferable license to use the App o
 ## In-app purchases
 
 - **Rainbow coins** are consumable packs used in the App.
-- **Monthly Pass** is an auto-renewing subscription. Apple bills through your Apple ID. Manage or cancel in your Apple ID subscription settings.
+- **30 Days Pass** is a one-time consumable purchase. It lasts 30 days and does not auto-renew. You can buy it again after it ends. Apple bills through your Apple ID.
 - Purchases are handled by Apple. Refunds follow Apple's policies.
 
 Virtual items have no cash value outside the App.

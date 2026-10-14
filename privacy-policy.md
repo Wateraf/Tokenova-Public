@@ -22,7 +22,7 @@ The App may show optional rewarded ads through Google AdMob. AdMob may collect d
 
 ## In-app purchases
 
-Rainbow coin packs and the monthly pass are processed by Apple. We do not receive your payment card details.
+Rainbow coin packs and the 30 Days Pass are processed by Apple. We do not receive your payment card details.
 
 ## Children's privacy
 
